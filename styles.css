@@ -1,0 +1,6 @@
+.bg {
+    background-image: url('images/sky.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
